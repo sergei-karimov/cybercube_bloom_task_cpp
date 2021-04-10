@@ -1,0 +1,7 @@
+/cmake-build-debug/
+/tests/cmake-build-debug/
+/tests/CMakeFiles/
+/tests/Testing/
+/tests/tests.cbp
+/tests/tests
+/.idea
